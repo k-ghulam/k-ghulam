@@ -1,16 +1,16 @@
+## User
+
 ### Hi there 👋
 
-<!--
-**k-ghulam/k-ghulam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate individual interested in data science and its applications. Currently, I'm honing my skills and exploring various projects. Here's a bit about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on honing my data science skills and working on personal projects.
+- 🌱 I’m currently learning new techniques in machine learning and data visualization.
+- 👯 I’m looking to collaborate on projects related to data science, machine learning, and artificial intelligence.
+- 💬 Ask me about anything related to data science, programming, or technology.
+- 📫 How to reach me: Feel free to reach out via email at [gkushki80@gmail.com](mailto:gkushki80@gmail.com).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy practicing yoga in my free time!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Looking forward to connecting and collaborating with like-minded individuals!
+
